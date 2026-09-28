@@ -17,8 +17,10 @@ This project addresses this challenge through the integration of:
 
 The system retrieves relevant information from a structured knowledge repository and combines it with a fine-tuned language model to generate reliable, policy-aligned, and contextually grounded customer support responses.
 
-architecture
-assets/architecture.png
+### ARCHITECTURE
+
+![Architecture Diagram](assets/architecture.png)
+
 ### Pipeline
 
 User Query
